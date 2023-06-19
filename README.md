@@ -63,9 +63,3 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/wibiemahardhika22/wibiemahardhika22/output/snake.svg" alt="Snake animation" />
-
-###
